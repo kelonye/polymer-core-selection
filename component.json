@@ -2,7 +2,7 @@
   "name": "polymer-core-selection",
   "scripts": [
   ],
-  "files": {
+  "files": [
     "core-selection.html"
-  }
+  ]
 }
