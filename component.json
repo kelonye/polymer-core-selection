@@ -1,6 +1,7 @@
 {
   "name": "polymer-core-selection",
   "scripts": [
+    "index.js"
   ],
   "files": [
     "core-selection.html"
