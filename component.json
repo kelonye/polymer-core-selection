@@ -1,0 +1,8 @@
+{
+  "name": "polymer-core-selection",
+  "scripts": [
+  ],
+  "files": {
+    "core-selection.html"
+  }
+}
